@@ -20,6 +20,21 @@ followed by some text
 ###### H6
 followed by some text
 
+This is a list
+1. This is cool
+2. isn't it?
+    - Veni
+    - Vidi
+    - Vici
+
+This is unordered
+* I know
+* I think
+* I did
+    1. Veni
+    2. Vidi
+    3. Vici
+
 Auto-detected link: http://www.france.com
 
 Some Ignored_multiple_underscore_italics here
